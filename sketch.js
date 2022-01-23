@@ -1,5 +1,5 @@
 let rotation = 0;
-let boxList = [];
+let boxList = []; 
 
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
